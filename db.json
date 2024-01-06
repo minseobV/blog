@@ -1,0 +1,31 @@
+{
+  "topics": [
+    {
+      "title": "첫번째 게시물",
+      "body": "첫번째 게시물의 내용",
+      "id": 1
+    },
+    {
+      "title": "세번 째 게시판",
+      "body": "사실 두번째 게시판",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
